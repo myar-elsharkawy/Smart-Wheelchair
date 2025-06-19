@@ -1,2 +1,2 @@
-# Smart-Wheelchair
+# Smart-Wheelchair 👨‍🦼
 Graduation Project
